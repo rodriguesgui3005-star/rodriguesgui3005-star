@@ -1,0 +1,99 @@
+/* ----- sinxtaxe ----
+
+seletor {
+
+    propierdade: valor
+}
+
+*/
+
+p{
+    color: blueviolet;
+}
+
+h1{
+    color: rgb(223, 79, 191);
+
+    /* codigo da cor */
+    color: #ff000f;
+
+    /* rgb */
+    color: rgba(55, 117, 170, 0.87);
+
+    /* RGBA */
+    color: color rgba(55, 117, 170, 0.87)
+}
+
+h2{
+    color: rgb(202, 15, 131);
+}
+
+h3{
+    color: rgb(237, 0, 245);
+}
+
+p{
+    color: #000;
+
+    /* altera a familia da fonte */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    /* altera o tamanho da fonte */
+    font-size: 50px;
+
+    /* espessura da fonte */
+    font-weight: 600;
+
+    /* distancia da linha */
+    line-height: 65px;
+
+    /* transformando texto */
+    text-transform: capitalize;
+
+}
+
+.box{
+    /* width: 200px;
+    height: 100px; */
+    background: darkred;
+    padding: 10px;
+    border: 5px solid #000;
+    margin: 40;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.grupo1{
+    color: #ff000f;
+}
+
+.grupo2{
+    color: antiquewhite;
+}
+
+.Teste1{
+    padding: 10px;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+    border:  20px dotted #000;
+    font-weight: 40pxo;
+    background-color: lightblue;
+}
+
+.box2{
+    border: 5px solid #000;
+    background-color: #5cfe62;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 15px 25px;
+    margin-left: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    color: #000;
+}

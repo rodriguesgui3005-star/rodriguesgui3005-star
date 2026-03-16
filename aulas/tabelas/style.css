@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td{
+    padding: 10xp;
+}
+
+thead{
+    background-color: forestgreen;
+}
+
+tbody{
+    background-color: rgb(253, 253, 253);
+}
+
+.genero{
+    background-color: rgb(218, 189, 25);
+}
+
+.genero{
+     background-color: rgb(218, 189, 25);
+}
+
+.categoria{
+    background-color: aliceblue;
+}
