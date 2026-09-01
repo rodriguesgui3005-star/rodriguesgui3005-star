@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="400" src="https://media1.tenor.com/m/gjyIA6Bwku0AAAAd/guy-dancing-headphones-guy-dancing.gif"  />
-</div>
 
 <div>
 <p align="center">
