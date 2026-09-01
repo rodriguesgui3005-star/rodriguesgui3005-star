@@ -1,3 +1,11 @@
+<div>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qvsr36lommapfnd2sc6n7v27xa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=true">
+  </a>
+</p>
+</div>
+
 <div align="center">
   <img height="400" src="https://media1.tenor.com/m/gjyIA6Bwku0AAAAd/guy-dancing-headphones-guy-dancing.gif"  />
 </div>
